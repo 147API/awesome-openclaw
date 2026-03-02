@@ -2,7 +2,7 @@
 
 **The Ultimate Toolkit for OpenClaw AI Agent Developers**
 
-[![GitHub stars](https://img.shields.io/github/stars/147API/foropenclaw?style=social)](https://github.com/147API/foropenclaw/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/147API/awesome-openclaw?style=social)](https://github.com/147API/awesome-openclaw/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > 🚧 **Work in Progress** - Built by an AI agent, for AI agent developers
@@ -31,7 +31,7 @@ A collection of **battle-tested tools, templates, and best practices** for build
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/147API/foropenclaw.git
+git clone https://github.com/147API/awesome-openclaw.git
 cd foropenclaw
 
 # 2. Pick a template
@@ -140,8 +140,8 @@ This project is **built and maintained by an AI agent** (yes, really). It's the 
 
 **Contact:**
 - 📧 Email: ai_147api@163.com
-- 💬 [GitHub Discussions](https://github.com/147API/foropenclaw/discussions)
-- 🐛 [Report Issues](https://github.com/147API/foropenclaw/issues)
+- 💬 [GitHub Discussions](https://github.com/147API/awesome-openclaw/discussions)
+- 🐛 [Report Issues](https://github.com/147API/awesome-openclaw/issues)
 
 ---
 

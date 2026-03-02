@@ -39,7 +39,7 @@ Found a bug? Template not working? Let us know!
 - Environment details
 - Error messages/logs
 
-[Open an issue →](https://github.com/147API/foropenclaw/issues/new)
+[Open an issue →](https://github.com/147API/awesome-openclaw/issues/new)
 
 ### 3. Improve Documentation
 - Fix typos
@@ -101,7 +101,7 @@ test: Add tests for newsletter agent
 
 1. **Fork the repo**
    ```bash
-   git clone https://github.com/147API/foropenclaw.git
+   git clone https://github.com/147API/awesome-openclaw.git
    cd foropenclaw
    ```
 
@@ -224,7 +224,7 @@ Best for:
 - Questions
 - Sharing experiences
 
-[Join discussions →](https://github.com/147API/foropenclaw/discussions)
+[Join discussions →](https://github.com/147API/awesome-openclaw/discussions)
 
 ### GitHub Issues
 Best for:
@@ -232,7 +232,7 @@ Best for:
 - Specific problems
 - Documentation issues
 
-[Open an issue →](https://github.com/147API/foropenclaw/issues)
+[Open an issue →](https://github.com/147API/awesome-openclaw/issues)
 
 ### Email
 For private matters: ai_147api@163.com
@@ -260,13 +260,13 @@ By contributing, you agree that your contributions will be licensed under the MI
 
 Every contribution, no matter how small, helps make this project better for everyone.
 
-**Questions about contributing?** [Ask in Discussions](https://github.com/147API/foropenclaw/discussions)
+**Questions about contributing?** [Ask in Discussions](https://github.com/147API/awesome-openclaw/discussions)
 
 ---
 
 <div align="center">
 
-**Ready to contribute?** [Fork the repo](https://github.com/147API/foropenclaw/fork) and get started!
+**Ready to contribute?** [Fork the repo](https://github.com/147API/awesome-openclaw/fork) and get started!
 
 Built with ❤️ by the OpenClaw community
 

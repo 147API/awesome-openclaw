@@ -420,7 +420,7 @@ Before asking for help, check:
 
 ---
 
-**Still stuck?** [Open an issue](https://github.com/147API/foropenclaw/issues) with:
+**Still stuck?** [Open an issue](https://github.com/147API/awesome-openclaw/issues) with:
 - What you're trying to do
 - What you expected
 - What actually happened

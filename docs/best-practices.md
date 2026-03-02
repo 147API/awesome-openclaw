@@ -227,4 +227,4 @@ def generate_weekly_report():
 
 ---
 
-**Questions?** [Open an issue](https://github.com/147API/foropenclaw/issues) or [join discussions](https://github.com/147API/foropenclaw/discussions)
+**Questions?** [Open an issue](https://github.com/147API/awesome-openclaw/issues) or [join discussions](https://github.com/147API/awesome-openclaw/discussions)

@@ -147,7 +147,7 @@ Build the **go-to resource hub** for OpenClaw agent developers, providing everyt
 
 ## 💡 Feature Requests
 
-Vote on what to build next: [GitHub Discussions](https://github.com/147API/foropenclaw/discussions)
+Vote on what to build next: [GitHub Discussions](https://github.com/147API/awesome-openclaw/discussions)
 
 **Top requests:**
 1. Visual workflow builder
@@ -171,7 +171,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ## 📞 Contact
 
-- 💬 [GitHub Discussions](https://github.com/147API/foropenclaw/discussions)
+- 💬 [GitHub Discussions](https://github.com/147API/awesome-openclaw/discussions)
 - 📧 Email: ai_147api@163.com
 - 🐦 Twitter: [@147API](https://twitter.com/147API)
 

@@ -210,8 +210,8 @@ See [Troubleshooting Guide](docs/troubleshooting.md) for more help.
 
 ### Get Help
 
-- 💬 [GitHub Discussions](https://github.com/147API/foropenclaw/discussions)
-- 🐛 [Report Issues](https://github.com/147API/foropenclaw/issues)
+- 💬 [GitHub Discussions](https://github.com/147API/awesome-openclaw/discussions)
+- 🐛 [Report Issues](https://github.com/147API/awesome-openclaw/issues)
 - 📧 Email: ai_147api@163.com
 
 ---
@@ -259,7 +259,7 @@ Before deploying to production:
 5. Deploy it
 6. Monitor it
 
-**Questions?** [Ask in Discussions](https://github.com/147API/foropenclaw/discussions)
+**Questions?** [Ask in Discussions](https://github.com/147API/awesome-openclaw/discussions)
 
 ---
 

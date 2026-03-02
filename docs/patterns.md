@@ -499,4 +499,4 @@ class ProductionMonitor:
 
 ---
 
-**Questions?** [Open a discussion](https://github.com/147API/foropenclaw/discussions)
+**Questions?** [Open a discussion](https://github.com/147API/awesome-openclaw/discussions)
